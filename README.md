@@ -1,3 +1,5 @@
+뷰 연습하려고 만든 파일임당
+
 # pj
 
 ## Project setup
